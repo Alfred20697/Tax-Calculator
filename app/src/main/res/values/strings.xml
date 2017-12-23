@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tax Calculator</string>
+    <string name="percent6TextView">6%</string>
+    <string name="taxTextView">Tax</string>
+    <string name="totalTextView">Total</string>
+    <string name="amountTextView">Bill Amount</string>
+    <string name="percentCustomTextView">10%</string>
+    <string name="customPercentTextView">Custom%</string>
+</resources>
